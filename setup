@@ -1,0 +1,5 @@
+To start the dummy mail server run:
+
+  python -m smtpd -n -c DebuggingServer localhost:1025
+  
+from the the terminal commandline within pycharm
